@@ -18,6 +18,10 @@
   "primaryTab": {
   "name": "Home"
 },
+"topAnchor": {
+  "name": "Home",
+  "icon": "building"
+},
   "topbarLinks": [
     {
       "name": "Support",
