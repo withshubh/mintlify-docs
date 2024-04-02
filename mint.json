@@ -31,7 +31,7 @@
   "tabs": [
         {
       "name": "Payment Gateway",
-      "url": "documentation"
+      "url": "payment-gateway"
     },
     {
       "name": "Payout",
