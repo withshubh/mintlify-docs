@@ -49,10 +49,6 @@
     }
   ],
   "navigation": [
- {
-    "group": "Main",
-    "pages": ["home"]
-  },
     {
       "group": "Get Started",
       "pages": [
