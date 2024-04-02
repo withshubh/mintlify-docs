@@ -63,9 +63,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "payment-gateway/introduction",
+        "payment-gateway/quickstart",
+        "payment-gateway/development"
       ]
     },
     {
