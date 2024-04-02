@@ -15,10 +15,6 @@
       "to": "#07C983"
     }
   },
-"topAnchor": {
-  "name": "Home",
-  "icon": "building"
-},
   "topbarLinks": [
     {
       "name": "Support",
@@ -53,11 +49,10 @@
     }
   ],
   "navigation": [
-    {
-        "primaryTab": {
-  "name": "Home"
-},
-    },
+ {
+    "group": "Main",
+    "pages": ["home"]
+  },
     {
       "group": "Get Started",
       "pages": [
