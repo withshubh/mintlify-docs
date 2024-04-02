@@ -15,6 +15,9 @@
       "to": "#07C983"
     }
   },
+  "primaryTab": {
+  "name": "Home"
+},
   "topbarLinks": [
     {
       "name": "Support",
