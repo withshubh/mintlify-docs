@@ -26,8 +26,12 @@
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
+        {
+      "name": "Payment Gateway",
+      "url": "documentation"
+    },
     {
-      "name": "API Reference",
+      "name": "Payout",
       "url": "api-reference"
     }
   ],
@@ -49,6 +53,10 @@
     }
   ],
   "navigation": [
+     {
+    "group": "Main",
+    "pages": ["home"]
+  },
     {
       "group": "Get Started",
       "pages": [
